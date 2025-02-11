@@ -1,6 +1,7 @@
 # LIDAR Terrain Flow Analysis
+comprehensive C application for analyzing LIDAR point cloud data and simulating water flow over terrain. This project processes high-resolution terrain data to identify potential water pooling areas and visualize water flow patterns in geographic regions.
 
-A comprehensive C application for analyzing LIDAR point cloud data and simulating water flow over terrain. This project processes high-resolution terrain data to identify potential water pooling areas and visualize water flow patterns in geographic regions.
+![Lidar Data](images/lidar-picture.jpg "Lidar Data")
 
 ## Features
 
